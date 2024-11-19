@@ -21,9 +21,9 @@ $ git config --global color.ui auto
 Enables helpful colorization of command line output
 
 MAKE CHANGES
-Review edits and craf a commit transaction
+Review edits and craft a commit transaction
 $ git status
-Lists all new or modified files to be commited
+Lists all new or modified files to be committed
 $ git add [file]
 Snapshots the file in preparation for versioning
 $ git reset [file]
@@ -68,7 +68,7 @@ build/
 temp-*
 
 A text file named .gitignore suppresses accidental versioning of
-files and paths matching the specified paterns
+files and paths matching the specified patterns
 
 SAVE FRAGMENTS
 Shelve and restore incomplete changes
@@ -94,9 +94,9 @@ $ git show [commit]
 Outputs metadata and content changes of the specified commit
 
 REDO COMMITS
-Erase mistakes and craf replacement history
+Erase mistakes and craft replacement history
 $ git reset [commit]
-Undoes all commits afer [commit], preserving changes locally
+Undoes all commits after [commit], preserving changes locally
 $ git reset --hard [commit]
 Discards all history and changes back to the specified commit
 
@@ -111,5 +111,5 @@ Uploads all local branch commits to GitHub
 $ git pull
 Downloads bookmark history and incorporates changes
 
-GitHub TRRAINING
+GitHub TRAINING
 training.github.com
