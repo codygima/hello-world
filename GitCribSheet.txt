@@ -1,7 +1,8 @@
 Author: Cody Gima
 User name: Cody
 Date: 11/19/24
-Version: 1.0
+License: MIT Open Source Initiative
+Version: 1.5
 
 GIT INSTALL
 
