@@ -1,3 +1,8 @@
+Author: Cody Gima
+User name: Cody
+Date: 11/19/24
+Version: 1.0
+
 GIT INSTALL
 
 GitHub for Windows https://windows.github.com GitHub for Mac https://mac.github.com
