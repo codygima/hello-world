@@ -1,9 +1,12 @@
+<<<<<<< HEAD
 Author: Cody Gima
 User name: Cody
 Date: 11/19/24
 License: MIT Open Source Initiative
 Version: 1.5
 
+=======
+>>>>>>> parent of 9ba43c1 (Document header added)
 GIT INSTALL
 
 GitHub for Windows https://windows.github.com GitHub for Mac https://mac.github.com
